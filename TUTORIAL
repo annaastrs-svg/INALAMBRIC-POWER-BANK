@@ -1,0 +1,40 @@
+BUILDING !! 
+Information before the tutorial!
+ This is the final product of our power bank, as you can see, 
+it has the push button to turn it on, the USB-C to charge it, the coil and the battery, below is the MHCD module. 
+The magnetism of our coil works perfectly and creates its energy field when touching the phone's RX. 
+ This is our power bank box, it has the exact measurements posted on GitHub and Tinkercad. 
+
+NOW BUILDING TUTORIAL! 
+
+STOP! FIRST OF ALL, WITH THE MULTIMETER CHECK YOUR LIPO BATTERY AND ITS VOLTAGES!
+
+First, put your MHCD in the center, everything will come together here.
+
+The MHCD has 6 pins: 3 GND, one OUT 5V, a VIN, and a BAT.
+
+The USB-C has 4; V, D-, D+ & G. V = VBUS + D-, D+ = positive and negative, G = GND.
+
+Connect and solder the V pin of the USB-C to the VIN pin of the MHCD and the G of GND to the GND of the MHCD.
+
+Now, connect and solder the push button to the MHCD, from GND-GND and from the positive of the button to the KEY of the MHCD.
+
+On the coil, there are 2 wires, right above the wires should be the symbol (-)(+), connect the negative of the TX to the GND of the MHCD, the positive to OUT 5V.
+
+Last but not least, the battery: negative to GND and positive to BAT.
+
+And that's it!!
+
+TESTS
+
+I am ridiculous, I put on gloves and a hood so that it wouldn’t explode on me, I even left my house so that a socket in my room wouldn’t explode... 
+
+Well, we need 1 multimeter, Kapton tape if you plan to use it a lot!
+
+First, leave the MHCD connected to the power for 10 minutes, 
+the red LED should light up to know that it is working. If it is too hot and you can’t leave your finger on the module for more than 10 seconds,
+be careful! Maybe your battery suffered some damage in the soldering...
+
+If everything went well, perfect. With the multimeter, check each component in your circuit.
+
+
