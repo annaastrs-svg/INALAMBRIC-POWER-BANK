@@ -1,22 +1,22 @@
-This is a inalambric power bank,I did it because i always run up of cables and of battery :B 
+FLUX CASE ! 
 
-<img width="1200" height="1600" alt="FLUC CASE" src="https://github.com/user-attachments/assets/3504d746-3b1d-4cad-af11-5a112307cddd" />
+this is an inalambric power bank that uses a coil and inductance theory for charging my iphone LOL
 
-components: 
-<img width="921" height="5<img width="1200" height="1600" alt="mhcd" src="https://github.com/user-attachments/assets/a96526ab-2292-4d7d-8797-7c3d77d777be" />
-<img width="1200" height="1600" alt="usbc" src="https://github.com/user-attachments/assets/d2c1939a-29d1-4069-8fdf-003bf5bc1e7e" />
-<img width="1200" height="1600" alt="tx" src="https://github.com/user-attachments/assets/805637ba-d473-4c72-96ab-14aaf68afe81" />
-<img width="1200" height="1600" alt="pila" src="https://github.com/user-attachments/assets/1dc17150-fa84-4933-a56e-dfb347c157e8" />
+I made this project because moustly I dont have battery or a cable, sooo a power bank that does not need non of them is the soloution yeyy 
 
-pin ups: 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/26a8c7b8-0915-45af-a873-91638f53ce21" />
 
-The MHCD has 6 pins: 3 GND, one 5V OUT, one VIN, and one BAT. 
-The USB-C has 4: V, D-, D+ & G. V = VBUS, D- = negative, D+ = positive, G = GND.
-Connect and solder the V pin of the USB-C to the VIN pin of the MHCD, and the G pin (GND) to the GND of the MHCD.
-Now, connect and solder the push button to the MHCD, from GND to GND and from the positive of the button to KEY MHCD.
-On the coil, there are 2 wires. Right above the wires, there should be the symbol (-)(+). Connect the negative of the TX to the GND of the MHCD, 
-and the positive to 5V OUT.
-Last but not least, the battery: negative to GND and positive to BAT.
+
+PCB
+
+<img width="952" height="702" alt="Captura de pantalla 2026-06-12 111358" src="https://github.com/user-attachments/assets/2bc91d50-ce99-4354-b8fd-b4ad885b69ca" />
+
+<img width="1918" height="1198" alt="Captura de pantalla 2026-06-12 112816" src="https://github.com/user-attachments/assets/cbd295c4-9038-446b-bde7-48b2ba46c2ce" />
+
+<img width="1398" height="947" alt="Captura de pantalla 2026-06-12 114635" src="https://github.com/user-attachments/assets/2b6f6aaa-9b99-4949-8b9d-fb03ecaa825c" />
+
+BOM 
+<img width="1137" height="241" alt="image" src="https://github.com/user-attachments/assets/44f8bab7-a7be-4fe5-9db0-f50926e5788e" />
 
 CAD :
 <img width="1101" height="649" alt="CAD FLUX CERRA" src="https://github.com/user-attachments/assets/a4874beb-f71d-4740-ab89-9459734587ca" />
