@@ -5,7 +5,12 @@ this is an inalambric power bank that uses a coil and inductance theory for char
 I made this project because moustly I dont have battery or a cable, sooo a power bank that does not need non of them is the soloution yeyy 
 
 --
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/26a8c7b8-0915-45af-a873-91638f53ce21" />
+ 
+ <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b9d2b2ca-acf6-4c0a-9407-06bd3eceda47" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b517bdf8-f319-4c19-9b57-006b7b15cc30" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b71a0c86-749f-4a3b-8970-49193ced047d" />
 
 
 - PCB -
