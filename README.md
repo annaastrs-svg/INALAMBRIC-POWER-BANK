@@ -46,3 +46,20 @@ I made this project because moustly I dont have battery or a cable, sooo a power
 - 
 <img width="1101" height="649" alt="CAD FLUX CERRA" src="https://github.com/user-attachments/assets/a4874beb-f71d-4740-ab89-9459734587ca" />
 
+WIRES ! 
+
+MH-CD42 - USBC
+VIN - VBUS
+GND - GND
+
+MH-CD42 - BTN
+KEY - (+)
+GND - (-)
+
+MH-CD42 - COIL
+VOUT - (+)
+GND - (-)
+
+MH-CD42 - BATTERY 
+BAT - (+)
+GND - (-)
