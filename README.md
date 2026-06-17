@@ -48,18 +48,18 @@ I made this project because moustly I dont have battery or a cable, sooo a power
 
 WIRES ! 
 
-MH-CD42 - USBC
-VIN - VBUS
-GND - GND
+MH-CD42 - USBC . 
+VIN - VBUS ,
+GND - GND ,
 
-MH-CD42 - BTN
-KEY - (+)
-GND - (-)
+MH-CD42 - BTN . 
+KEY - (+) , 
+GND - (-) ,
 
-MH-CD42 - COIL
-VOUT - (+)
-GND - (-)
+MH-CD42 - COIL . 
+VOUT - (+) ,
+GND - (-) ,
 
-MH-CD42 - BATTERY 
-BAT - (+)
-GND - (-)
+MH-CD42 - BATTERY .
+BAT - (+) , 
+GND - (-) ,
