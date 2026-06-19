@@ -4,6 +4,9 @@ this is an inalambric power bank that uses a coil and inductance theory for char
 
 I made this project because moustly I dont have battery or a cable, sooo a power bank that does not need non of them is the soloution yeyy 
 
+PAG OF FLUX CASE (fotos , tutorial and more)
+https://annaastrs-svg.github.io/Flux-Page-/
+
 --
  
  <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b9d2b2ca-acf6-4c0a-9407-06bd3eceda47" />
