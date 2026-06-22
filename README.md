@@ -21,11 +21,12 @@ https://annaastrs-svg.github.io/Flux-Page-/
 -eschematic -
 
 
-<img width="952" height="702" alt="Captura de pantalla 2026-06-12 111358" src="https://github.com/user-attachments/assets/2bc91d50-ce99-4354-b8fd-b4ad885b69ca" />
-
+<img width="1181" height="911" alt="Captura de pantalla 2026-06-22 104525" src="https://github.com/user-attachments/assets/3de7721c-ae01-484f-b4f8-dc5d9fb928e2" />
 
 -pcb -
 
+
+<img width="952" height="702" alt="Captura de pantalla 2026-06-12 111358" src="https://github.com/user-attachments/assets/2bc91d50-ce99-4354-b8fd-b4ad885b69ca" />
 
 <img width="1918" height="1198" alt="Captura de pantalla 2026-06-12 112816" src="https://github.com/user-attachments/assets/cbd295c4-9038-446b-bde7-48b2ba46c2ce" />
 
